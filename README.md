@@ -1,4 +1,4 @@
-# Improving-Knowledge-based-Dialogue-Generation-through-Two-stage-Knowledge-Selection
+# Improving-Knowledge-based-Dialogue-Generation-through-Two-stage-Knowledge-Selection and Knowledge Selection-guided Pointer Network
 
 This is the code of the paper "Improving Knowledge-based Dialogue Generation through Two-stage Knowledge Selection and Knowledge Selection-Guided Pointer Network".
 
